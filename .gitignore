@@ -1,0 +1,13 @@
+.vscode
+CMakeFiles
+
+CMakeCache.txt
+*.cmake
+Makefile
+
+test.out
+*.a
+*.so
+tp
+
+core
